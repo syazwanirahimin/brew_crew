@@ -1,1 +1,1 @@
-![Brew Crew Demo][demo.gif]
+![Brew Crew Demo](demo.gif)
